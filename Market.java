@@ -41,7 +41,6 @@ public class Market implements MarketBehaviour, QueueBehaviour {
     
     @Override
     public void update() {
-        // Implement update method for Market
-        // Accept and process orders
+
     }
 }
